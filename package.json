@@ -1,7 +1,7 @@
 { 
-    "name": "ABHISHEK-SER",
+    "name": "BOYS SQUAD BOT",
     "version": "0.0.1",
-    "description": "Customizable WhatsApp Bot",
+    "description": "CREATOR @ANKITH",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -71,6 +71,7 @@
         "pdfkit": "^0.13.0",
         "pino-pretty": "^9.1.1",
         "qrcode": "^1.5.1",
+        "socket.io": "^4.5.2",
         "qrcode-terminal": "^0.12.0",
         "readline": "^1.3.0",
         "similarity": "^1.2.1",
